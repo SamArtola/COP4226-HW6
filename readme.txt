@@ -1,0 +1,1 @@
+Included all basics that were asked. Did not do the extra credit. The recording doesnt capture the audio but the wav files are in the project files.
